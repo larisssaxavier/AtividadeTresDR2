@@ -4,7 +4,7 @@
 class Livro
 {
     //CAMPOS (ATRIBUTOS)
-    public string Titulo;  // Campo 1
+    public string? Titulo;  // Campo 1
     public int AnoPublicacao;  // Campo 2
     public bool Disponivel = true;  // Campo com valor padrão
 
